@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1.1.1
 // @description  Removedor de anúncios pro habblet
-// @author       ReversiveDev
+// @author       Relapso
 // @match        https://www.habblet.city/hotelv2
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=habblet.city
 // @grant        none
